@@ -1,0 +1,24 @@
+{
+  "name": "join_us",
+  "version": "1.0.0",
+  "description": "\"A simple web application for learning how to connect to MySQL database using node\"",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvaniBajpai/JOIN_US.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvaniBajpai/JOIN_US/issues"
+  },
+  "homepage": "https://github.com/AvaniBajpai/JOIN_US#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.1.0",
+    "mysql": "^2.18.1"
+  }
+}
